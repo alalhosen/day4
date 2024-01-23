@@ -1,3 +1,5 @@
-h1{color: blue;background-color: aqua;}
+h1{color: blue;background-color: aqua;width: 600px;height: 350px;background-image: url('color.jpg');}
 p{color: red;}
 h2{font-style: italic;background-color: blueviolet;width: 40%;}
+div{border: 10px dotted brown;}
+button{background-color: chartreuse;}
